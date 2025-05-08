@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\WeatherApiByDays\DatabseCall\bin\Debug\net8.0\DatabseCall.deps.json
+C:\Users\DELL\source\repos\WeatherApiByDays\DatabseCall\bin\Debug\net8.0\DatabseCall.dll
+C:\Users\DELL\source\repos\WeatherApiByDays\DatabseCall\bin\Debug\net8.0\DatabseCall.pdb
+C:\Users\DELL\source\repos\WeatherApiByDays\DatabseCall\obj\Debug\net8.0\DatabseCall.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\WeatherApiByDays\DatabseCall\obj\Debug\net8.0\DatabseCall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\WeatherApiByDays\DatabseCall\obj\Debug\net8.0\DatabseCall.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\WeatherApiByDays\DatabseCall\obj\Debug\net8.0\DatabseCall.AssemblyInfo.cs
+C:\Users\DELL\source\repos\WeatherApiByDays\DatabseCall\obj\Debug\net8.0\DatabseCall.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\WeatherApiByDays\DatabseCall\obj\Debug\net8.0\DatabseCall.dll
+C:\Users\DELL\source\repos\WeatherApiByDays\DatabseCall\obj\Debug\net8.0\refint\DatabseCall.dll
+C:\Users\DELL\source\repos\WeatherApiByDays\DatabseCall\obj\Debug\net8.0\DatabseCall.pdb
+C:\Users\DELL\source\repos\WeatherApiByDays\DatabseCall\obj\Debug\net8.0\ref\DatabseCall.dll

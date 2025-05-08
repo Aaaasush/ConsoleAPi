@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\WeatherApiByDays\BussinessLogic\bin\Debug\net8.0\BussinessLogic.deps.json
+C:\Users\DELL\source\repos\WeatherApiByDays\BussinessLogic\bin\Debug\net8.0\BussinessLogic.dll
+C:\Users\DELL\source\repos\WeatherApiByDays\BussinessLogic\bin\Debug\net8.0\BussinessLogic.pdb
+C:\Users\DELL\source\repos\WeatherApiByDays\BussinessLogic\obj\Debug\net8.0\BussinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\WeatherApiByDays\BussinessLogic\obj\Debug\net8.0\BussinessLogic.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\WeatherApiByDays\BussinessLogic\obj\Debug\net8.0\BussinessLogic.AssemblyInfo.cs
+C:\Users\DELL\source\repos\WeatherApiByDays\BussinessLogic\obj\Debug\net8.0\BussinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\WeatherApiByDays\BussinessLogic\obj\Debug\net8.0\BussinessLogic.dll
+C:\Users\DELL\source\repos\WeatherApiByDays\BussinessLogic\obj\Debug\net8.0\refint\BussinessLogic.dll
+C:\Users\DELL\source\repos\WeatherApiByDays\BussinessLogic\obj\Debug\net8.0\BussinessLogic.pdb
+C:\Users\DELL\source\repos\WeatherApiByDays\BussinessLogic\obj\Debug\net8.0\ref\BussinessLogic.dll
+C:\Users\DELL\source\repos\WeatherApiByDays\BussinessLogic\bin\Debug\net8.0\DatabseCall.dll
+C:\Users\DELL\source\repos\WeatherApiByDays\BussinessLogic\bin\Debug\net8.0\DatabseCall.pdb
+C:\Users\DELL\source\repos\WeatherApiByDays\BussinessLogic\obj\Debug\net8.0\BussinessLogic.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\WeatherApiByDays\BussinessLogic\obj\Debug\net8.0\Bussines.273F0448.Up2Date
